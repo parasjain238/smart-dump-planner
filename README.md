@@ -5,6 +5,10 @@
 ---
 
 ## 📌 Problem Overview
+optional - 
+## 📄 Problem Statement
+
+[Download Problem Statement](docs/problem_statement.docx)
 
 Dump packing in mining is traditionally done using **pre-defined spot points and fixed lanes**, which leads to:
 
